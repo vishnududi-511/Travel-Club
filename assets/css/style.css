@@ -919,10 +919,6 @@ body {
     color: var(--color-white);
 }
 
-.under-li-footer {
-    max-width: 245px;
-}
-
 .footer_font1 {
     color: var(--footer-text);
     font-family: var(--ff-poppins);
